@@ -4,17 +4,73 @@
 }
 
 body {
-  background-color: #f0fff4;
+  background-color: rgb(13, 4, 51);
+  
 }
+
+
+
+.text {
+  font-family: "Poppins", sans-serif;
+  margin-top: 150px;
+  margin-left: 800px;
+  margin-right: 200px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.text2{
+  font-family: "Poppins", sans-serif;
+  margin-left: 200px;
+  margin-right: 800px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.text3 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 800px;
+  margin-right: 200px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.text4{
+  font-family: "Poppins", sans-serif;
+  margin-left: 200px;
+  margin-right: 800px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.text5{
+  font-family: "Poppins", sans-serif;
+  margin-left: 800px;
+  margin-right: 200px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.text6{
+  font-family: "Poppins", sans-serif;
+  margin-left: 200px;
+  margin-right: 800px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
 
 nav {
   width: 100%;
   height: 60px;
-  background-color: rgb(34, 159, 231);
+  background-color: rgba(0, 0, 0, 0.801);
 }
 nav p {
   font-family: arial;
-  color: #222;
+  color: rgba(255, 255, 255, 0.842);
   font-size: 24px;
   line-height: 55px;
   float: left;
@@ -36,7 +92,7 @@ nav ul li a {
     
   display: block;
   font-family: "Poppins", sans-serif;
-  color: #222;
+  color: rgba(255, 255, 255, 0.842);
   font-size: 14px;
   padding: 19px 22px;
   text-decoration: none;
@@ -48,7 +104,7 @@ nav ul li a:hover {
 nav ul li ul {
   display: none;
   position: absolute;
-  background-color: rgb(114, 113, 113);
+  background-color: rgb(255, 255, 255);
   padding: 10px;
   border-radius: 0px 0px 4px 4px;
 }
