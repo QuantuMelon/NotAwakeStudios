@@ -9,7 +9,7 @@ body {
 }
 .notawake{
   background-position: right;
-  background-image: url(notawake.png);
+  background-image: url(./teamphotos/notawake.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   
