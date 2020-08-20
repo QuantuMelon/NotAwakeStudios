@@ -4,65 +4,129 @@
 }
 
 body {
-  background-color: rgb(13, 4, 51);
+  background-color: #10222d;
   
 }
-
-
-
+.notawake{
+  background-position: right;
+  background-image: url(notawake.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
 .text {
   font-family: "Poppins", sans-serif;
-  margin-top: 150px;
-  margin-left: 800px;
-  margin-right: 200px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);
 }
 .text2{
   font-family: "Poppins", sans-serif;
-  margin-left: 200px;
-  margin-right: 800px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);  
 }
 .text3 {
   font-family: "Poppins", sans-serif;
-  margin-left: 800px;
-  margin-right: 200px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);
 }
 
 .text4{
   font-family: "Poppins", sans-serif;
-  margin-left: 200px;
-  margin-right: 800px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);
 }
-
 .text5{
   font-family: "Poppins", sans-serif;
-  margin-left: 800px;
-  margin-right: 200px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);
 }
 .text6{
   font-family: "Poppins", sans-serif;
-  margin-left: 200px;
-  margin-right: 800px;
-  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
   color: rgb(0, 0, 0);
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(224, 221, 221);
 }
-
-
+.t1{
+  font-family: "Poppins", sans-serif;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.t2 {
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.t3{
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.t4{
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.t5{
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.t9 {
+  font-size: 10px;
+  font-family: "Poppins", sans-serif;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 600px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  background-color: rgb(224, 221, 221);
+}
+.fill{
+  color: #10222d;
+}
 nav {
   width: 100%;
   height: 60px;
@@ -76,12 +140,9 @@ nav p {
   float: left;
   padding: 0px 20px;
 }
-
 nav ul {
   float: left;
 }
-
-
 nav ul li {
   float: left;
   list-style: none;
@@ -138,11 +199,6 @@ nav ul li ul li a:hover {
   margin: 10vh;
   text-align: center;
 }
-.jobs{
-  font-family: "Poppins", sans-serif;
-  margin: 10vh;
-  text-align: center;
-}
 .int{
   font-family: "Poppins", sans-serif;
   margin: 10vh;
@@ -157,9 +213,4 @@ nav ul li ul li a:hover {
   font-family: "Poppins", sans-serif;
   margin: 10vh;
   text-align: center;
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
