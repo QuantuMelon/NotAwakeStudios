@@ -19,7 +19,7 @@ body {
   background-image: url(./teamphotos/realdoll.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
+  background-position-y: 137px;
 }
 .text {
   font-family: "Poppins", sans-serif;
